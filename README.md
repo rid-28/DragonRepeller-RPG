@@ -6,7 +6,7 @@ Fight monsters, earn XP, and level up while trying to defeat the final boss: the
 ## 🎮 Game Features
 
 - Simple text-based gameplay
-- Choose your actions: attack, dodge, heal
+- Choose your actions: attack, dodge, run
 - Track your **XP**, **Health**, and **Gold**
 - Fight through monsters and a boss battle!
 
