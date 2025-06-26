@@ -1,6 +1,6 @@
 # 🐉 Dragon Repeller RPG
 
-Welcome to my first JavaScript game project — a fun and interactive RPG adventure! ⚔️  
+Welcome to my JavaScript game project — a fun and interactive RPG adventure! ⚔️  
 Fight monsters, earn XP, and level up while trying to defeat the final boss: the fierce dragon! 🐲
 
 ## 🎮 Game Features
