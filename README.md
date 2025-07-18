@@ -22,3 +22,5 @@ Fight monsters, earn XP, and level up while trying to defeat the final boss: the
 
 ## 🌐 Live Site
 [Click here to play the game](https://rid-28.github.io/DragonRepeller-RPG/)
+
+---
